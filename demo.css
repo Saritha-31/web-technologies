@@ -1,0 +1,16 @@
+p
+{
+background-color:pink;text-decoration:underline;
+}
+h4
+{
+background-color:pink;
+}
+h2{text-decoration:overline}
+body
+{
+	background-color:brown;
+	background-image:url('Koala.jpg');
+	background-size:600px 600px;
+	background-repeat:no-repeat;
+}
